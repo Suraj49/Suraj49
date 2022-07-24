@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
